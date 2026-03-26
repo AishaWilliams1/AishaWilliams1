@@ -1,4 +1,4 @@
-![Banner](a_digital_graphic_banner_features_the_phrase_turn.png)
+![Banner](banner.png)
 
 # Hi, I’m Aisha 👋
 
@@ -9,7 +9,7 @@ I use data to make everyday decisions clearer and build tools that turn ideas in
 A Streamlit app that helps users plan and track daily movement using data insights.
 
 ## 🛠 Tools
-Python • Pandas • Streamlit • Altair
+Python • Pandas • Streamlit • Altair • SQL
 
 ## 🔗 Connect
 LinkedIn: https://www.linkedin.com/in/coachaisha/
