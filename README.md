@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# Hi, I’m Aisha 👋
+# Hi, I’m Aisha 👋🏾
 
 I use data to make everyday decisions clearer and build tools that turn ideas into something measurable and real.
 
