@@ -1,16 +1,15 @@
-## Hi there 👋
+![Banner](a_digital_graphic_banner_features_the_phrase_turn.png)
 
-<!--
-**AishaWilliams1/AishaWilliams1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Aisha 👋
 
-Here are some ideas to get you started:
+I use data to make everyday decisions clearer and build tools that turn ideas into something measurable and real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+**MoveMath**
+A Streamlit app that helps users plan and track daily movement using data insights.
+
+## 🛠 Tools
+Python • Pandas • Streamlit • Altair
+
+## 🔗 Connect
+LinkedIn: https://www.linkedin.com/in/coachaisha/
